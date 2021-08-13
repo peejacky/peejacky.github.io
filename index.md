@@ -1,10 +1,11 @@
-## Personal Introduction
-My name is Peejacky, I'm 34 years old.I'm from WuHan, HuBei.My hometown is HuangGang.I'm educated from Wuhan University Of Science & Technology.
 ## Welcome to Peejacky's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/peejacky/peejacky.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Personal Introduction
+My name is Peejacky, I'm 34 years old.I'm from WuHan, HuBei.My hometown is HuangGang.I'm educated from Wuhan University Of Science & Technology.
 
 ### Introduction
 
